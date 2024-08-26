@@ -1,0 +1,1537 @@
+Iteration: 1
+U residual: 954.4695
+k residual: 78.3814
+ε residual: 640033.0138
+
+Iteration: 2
+U residual: 729.9988
+k residual: 14344.8797
+ε residual: 379478.5858
+
+Iteration: 3
+U residual: 130.8901
+k residual: 11470.3037
+ε residual: 285339.9499
+
+Iteration: 4
+U residual: 8.3090
+k residual: 2310.7763
+ε residual: 88584.3132
+
+Iteration: 5
+U residual: 2.3375
+k residual: 462.2905
+ε residual: 24529.3151
+
+Iteration: 6
+U residual: 1.4261
+k residual: 92.4710
+ε residual: 6314.9844
+
+Iteration: 7
+U residual: 0.7534
+k residual: 18.4105
+ε residual: 1548.2471
+
+Iteration: 8
+U residual: 0.3989
+k residual: 3.4188
+ε residual: 352.3164
+
+Iteration: 9
+U residual: 0.1901
+k residual: 0.4722
+ε residual: 83.5146
+
+Iteration: 10
+U residual: 0.0709
+k residual: 0.5613
+ε residual: 126.5435
+
+Iteration: 11
+U residual: 0.0191
+k residual: 0.6816
+ε residual: 96.9889
+
+Iteration: 12
+U residual: 0.0026
+k residual: 0.6534
+ε residual: 14.4115
+
+Iteration: 13
+U residual: 0.0001
+k residual: 0.6406
+ε residual: 12.8952
+
+Iteration: 14
+U residual: 0.0001
+k residual: 0.5719
+ε residual: 8.8624
+
+Iteration: 15
+U residual: 0.0001
+k residual: 0.5080
+ε residual: 2.0046
+
+Iteration: 16
+U residual: 0.0001
+k residual: 0.4302
+ε residual: 2.5147
+
+Iteration: 17
+U residual: 0.0001
+k residual: 0.3605
+ε residual: 2.5268
+
+Iteration: 18
+U residual: 0.0001
+k residual: 0.2965
+ε residual: 1.8674
+
+Iteration: 19
+U residual: 0.0001
+k residual: 0.2421
+ε residual: 1.4032
+
+Iteration: 20
+U residual: 0.0001
+k residual: 0.1962
+ε residual: 1.1484
+
+Iteration: 21
+U residual: 0.0000
+k residual: 0.1582
+ε residual: 0.9770
+
+Iteration: 22
+U residual: 0.0000
+k residual: 0.1272
+ε residual: 0.8296
+
+Iteration: 23
+U residual: 0.0000
+k residual: 0.1020
+ε residual: 0.6928
+
+Iteration: 24
+U residual: 0.0000
+k residual: 0.0816
+ε residual: 0.5695
+
+Iteration: 25
+U residual: 0.0000
+k residual: 0.0652
+ε residual: 0.4636
+
+Iteration: 26
+U residual: 0.0000
+k residual: 0.0520
+ε residual: 0.3751
+
+Iteration: 27
+U residual: 0.0000
+k residual: 0.0415
+ε residual: 0.3022
+
+Iteration: 28
+U residual: 0.0000
+k residual: 0.0330
+ε residual: 0.2423
+
+Iteration: 29
+U residual: 0.0000
+k residual: 0.0263
+ε residual: 0.1934
+
+Iteration: 30
+U residual: 0.0000
+k residual: 0.0209
+ε residual: 0.1537
+
+Iteration: 31
+U residual: 0.0000
+k residual: 0.0167
+ε residual: 0.1215
+
+Iteration: 32
+U residual: 0.0000
+k residual: 0.0133
+ε residual: 0.0957
+
+Iteration: 33
+U residual: 0.0000
+k residual: 0.0106
+ε residual: 0.0749
+
+Iteration: 34
+U residual: 0.0000
+k residual: 0.0084
+ε residual: 0.0585
+
+Iteration: 35
+U residual: 0.0000
+k residual: 0.0067
+ε residual: 0.0455
+
+Iteration: 36
+U residual: 0.0000
+k residual: 0.0054
+ε residual: 0.0355
+
+Iteration: 37
+U residual: 0.0000
+k residual: 0.0043
+ε residual: 0.0276
+
+Iteration: 38
+U residual: 0.0000
+k residual: 0.0034
+ε residual: 0.0211
+
+Iteration: 39
+U residual: 0.0000
+k residual: 0.0027
+ε residual: 0.0162
+
+Iteration: 40
+U residual: 0.0000
+k residual: 0.0022
+ε residual: 0.0124
+
+Iteration: 41
+U residual: 0.0000
+k residual: 0.0017
+ε residual: 0.0094
+
+Iteration: 42
+U residual: 0.0000
+k residual: 0.0013
+ε residual: 0.0072
+
+Iteration: 43
+U residual: 0.0000
+k residual: 0.0011
+ε residual: 0.0055
+
+Iteration: 44
+U residual: 0.0000
+k residual: 0.0008
+ε residual: 0.0041
+
+Iteration: 45
+U residual: 0.0000
+k residual: 0.0007
+ε residual: 0.0031
+
+Iteration: 46
+U residual: 0.0000
+k residual: 0.0005
+ε residual: 0.0022
+
+Iteration: 47
+U residual: 0.0000
+k residual: 0.0004
+ε residual: 0.0017
+
+Iteration: 48
+U residual: 0.0000
+k residual: 0.0003
+ε residual: 0.0013
+
+Iteration: 49
+U residual: 0.0000
+k residual: 0.0002
+ε residual: 0.0009
+
+Iteration: 50
+U residual: 0.0000
+k residual: 0.0002
+ε residual: 0.0007
+
+Iteration: 51
+U residual: 0.0000
+k residual: 0.0002
+ε residual: 0.0005
+
+Iteration: 52
+U residual: 0.0000
+k residual: 0.0002
+ε residual: 0.0004
+
+Iteration: 53
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 54
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 55
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 56
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 57
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 58
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 59
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0002
+
+Iteration: 60
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 61
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 62
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 63
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 64
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 65
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 66
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 67
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 68
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 69
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 70
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 71
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 72
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 73
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 74
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 75
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 76
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 77
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 78
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 79
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 80
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 81
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 82
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 83
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 84
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 85
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0004
+
+Iteration: 86
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 87
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 88
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 89
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 90
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 91
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 92
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 93
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 94
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 95
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 96
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 97
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 98
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 99
+U residual: 0.0000
+k residual: 0.0001
+ε residual: 0.0003
+
+Iteration: 100
+U residual: 44.1986
+k residual: 5.8991
+ε residual: 119.5699
+
+Iteration: 101
+U residual: 17.2838
+k residual: 2.2254
+ε residual: 55.3861
+
+Iteration: 102
+U residual: 12.1389
+k residual: 1.7651
+ε residual: 17.9404
+
+Iteration: 103
+U residual: 0.8143
+k residual: 0.5630
+ε residual: 23.4736
+
+Iteration: 104
+U residual: 0.2079
+k residual: 0.1701
+ε residual: 8.3552
+
+Iteration: 105
+U residual: 0.2875
+k residual: 0.1306
+ε residual: 6.3070
+
+Iteration: 106
+U residual: 0.1749
+k residual: 0.1732
+ε residual: 3.0404
+
+Iteration: 107
+U residual: 0.5936
+k residual: 0.0443
+ε residual: 4.0221
+
+Iteration: 108
+U residual: 0.2334
+k residual: 0.0437
+ε residual: 3.1640
+
+Iteration: 109
+U residual: 0.0163
+k residual: 0.0359
+ε residual: 0.6433
+
+Iteration: 110
+U residual: 0.0117
+k residual: 0.0211
+ε residual: 2.0322
+
+Iteration: 111
+U residual: 0.0099
+k residual: 0.0042
+ε residual: 1.6004
+
+Iteration: 112
+U residual: 0.0057
+k residual: 0.0050
+ε residual: 0.4333
+
+Iteration: 113
+U residual: 0.0028
+k residual: 0.0052
+ε residual: 0.4328
+
+Iteration: 114
+U residual: 0.0017
+k residual: 0.0023
+ε residual: 0.5375
+
+Iteration: 115
+U residual: 0.0006
+k residual: 0.0003
+ε residual: 0.1879
+
+Iteration: 116
+U residual: 0.0001
+k residual: 0.0001
+ε residual: 0.0316
+
+Iteration: 117
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0227
+
+Iteration: 118
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0183
+
+Iteration: 119
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0089
+
+Iteration: 120
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0049
+
+Iteration: 121
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0058
+
+Iteration: 122
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0061
+
+Iteration: 123
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0053
+
+Iteration: 124
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0041
+
+Iteration: 125
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0028
+
+Iteration: 126
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0019
+
+Iteration: 127
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0016
+
+Iteration: 128
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0016
+
+Iteration: 129
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0018
+
+Iteration: 130
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0019
+
+Iteration: 131
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0019
+
+Iteration: 132
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0018
+
+Iteration: 133
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0017
+
+Iteration: 134
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0016
+
+Iteration: 135
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0015
+
+Iteration: 136
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0014
+
+Iteration: 137
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0012
+
+Iteration: 138
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0011
+
+Iteration: 139
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0010
+
+Iteration: 140
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0009
+
+Iteration: 141
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0008
+
+Iteration: 142
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0007
+
+Iteration: 143
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0006
+
+Iteration: 144
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0005
+
+Iteration: 145
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0005
+
+Iteration: 146
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 147
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 148
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 149
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 150
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 151
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 152
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 153
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 154
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 155
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 156
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 157
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 158
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 159
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 160
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 161
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 162
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 163
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 164
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 165
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 166
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 167
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 168
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 169
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 170
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 171
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 172
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 173
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 174
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 175
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 176
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 177
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 178
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 179
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 180
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 181
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 182
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 183
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 184
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 185
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 186
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 187
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 188
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 189
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 190
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 191
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 192
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 193
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 194
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 195
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 196
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 197
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 198
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 199
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 200
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 201
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 202
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 203
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 204
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 205
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 206
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 207
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 208
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 209
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 210
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 211
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 212
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 213
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 214
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 215
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 216
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 217
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 218
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0004
+
+Iteration: 219
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 220
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 221
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 222
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 223
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 224
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 225
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 226
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 227
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 228
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 229
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 230
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 231
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 232
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 233
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 234
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 235
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 236
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 237
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 238
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 239
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 240
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 241
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 242
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 243
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 244
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 245
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 246
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 247
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 248
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 249
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 250
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 251
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 252
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 253
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 254
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 255
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 256
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 257
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 258
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0003
+
+Iteration: 259
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 260
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 261
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 262
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 263
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 264
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 265
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 266
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 267
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 268
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 269
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 270
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 271
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 272
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 273
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 274
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 275
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 276
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 277
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 278
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 279
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 280
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 281
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 282
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 283
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 284
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 285
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 286
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0002
+
+Iteration: 287
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 288
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 289
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 290
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 291
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 292
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 293
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 294
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 295
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 296
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 297
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 298
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 299
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 300
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 301
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 302
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 303
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 304
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 305
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 306
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+Iteration: 307
+U residual: 0.0001
+k residual: 0.0000
+ε residual: 0.0001
+
+The solution has converged!
+τ = 1.0026
